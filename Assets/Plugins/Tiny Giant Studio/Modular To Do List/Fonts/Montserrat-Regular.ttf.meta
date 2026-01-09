@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: e8239e9a7fbaa2048a9e65d5d35d76ce
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Montserrat
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 261949
+  packageName: Modular To Do Lists - Offline Project Management Tool
+  packageVersion: 1.4.3
+  assetPath: Assets/Plugins/Tiny Giant Studio/Modular To Do List/Fonts/Montserrat-Regular.ttf
+  uploadId: 620219

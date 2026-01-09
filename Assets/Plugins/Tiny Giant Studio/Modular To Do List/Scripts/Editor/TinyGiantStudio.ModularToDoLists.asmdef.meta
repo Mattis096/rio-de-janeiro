@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 80b448d4685f2504c95d275d4716863f
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 261949
+  packageName: Modular To Do Lists - Offline Project Management Tool
+  packageVersion: 1.4.3
+  assetPath: Assets/Plugins/Tiny Giant Studio/Modular To Do List/Scripts/Editor/TinyGiantStudio.ModularToDoLists.asmdef
+  uploadId: 620219

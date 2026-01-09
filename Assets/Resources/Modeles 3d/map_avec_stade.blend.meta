@@ -1,0 +1,317 @@
+fileFormatVersion: 2
+guid: e360f26d408ae5b45a085d847e8add48
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Barri\xE8re"
+    second: {fileID: 2100000, guid: e8018dfeeaa10d540949963b48c07aec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Coffre_principale
+    second: {fileID: 2100000, guid: 72c5fcf54bfffeb4d89c1738bcc074c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Coffre_secondaire
+    second: {fileID: 2100000, guid: 28ce08766930fcd4f92c39642289a16d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Coffre_tertiaire
+    second: {fileID: 2100000, guid: 300a42c61d2e3fb4483b64f967cf0773, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat.002
+    second: {fileID: 2100000, guid: 546f13b37a38e064e9d24c26a5217e82, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat.003
+    second: {fileID: 2100000, guid: ece385b9a8911c940ad76cfa4c6b9641, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat.004
+    second: {fileID: 2100000, guid: cbde2d408d56846488ffe2b243f1fe92, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "M\xE9tal.001"
+    second: {fileID: 2100000, guid: d24fd5274613a744c92cccfe16df47d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "b\xE9ton.001"
+    second: {fileID: 2100000, guid: 46864ff2329b8a741a570e7c7709843b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: camionnette
+    second: {fileID: 2100000, guid: e9814eca5b31ce949ae72e71bf1ffc1b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: conteneur_rouge.004
+    second: {fileID: 2100000, guid: 02a3cf8e85b07214ea225e3f7aa1f612, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: conteneur_rouge.005
+    second: {fileID: 2100000, guid: 52c386a57744b524ebb4eef38f22424f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: couleur_secondaire
+    second: {fileID: 2100000, guid: 7644fa7a2596c0247b39d7d857472cb2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "cylindre_m\xE9tal.001"
+    second: {fileID: 2100000, guid: 97d1006710d677c4080c7911736943d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: enjoliveur_gris
+    second: {fileID: 2100000, guid: 5f8364c492a65604085e0e3c820485e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: enjoliveur_noir
+    second: {fileID: 2100000, guid: f445ef379b2b0d143bba174e506c6af8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: escalier
+    second: {fileID: 2100000, guid: f2301c3140acdd245b08a036ef6472ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "escalier_ext\xE9rieur"
+    second: {fileID: 2100000, guid: c0da1b9270a2dcb4498c44757436423b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "escalier_ext\xE9rieur.006"
+    second: {fileID: 2100000, guid: 94c46a95d6b350e4b8603ac5c6c98e94, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "escalier_ext\xE9rieur.007"
+    second: {fileID: 2100000, guid: 4aaec9b82e88d6446b835a7d920193fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "escalier_ext\xE9rieur.008"
+    second: {fileID: 2100000, guid: b5c246840a50f684eb05d734a888b53a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "escalier_ext\xE9rieur.009"
+    second: {fileID: 2100000, guid: d66cad288a8c13b4e9b33bc6ddc408aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "escalier_ext\xE9rieur.010"
+    second: {fileID: 2100000, guid: 171ba59cfc215bc4c9bd90c67841fa91, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fondation
+    second: {fileID: 2100000, guid: 5b0e41341c0ac9a43ae5a0f42aa69d56, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grillage
+    second: {fileID: 2100000, guid: 373b17e5b6e1e4d46a66ba99aa7fe000, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: jante
+    second: {fileID: 2100000, guid: b54b66b9e87f02d43a0d5a0c0aea54a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mirroir
+    second: {fileID: 2100000, guid: 45d880a69708d1043b088541ac52d81f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mur_exterieur
+    second: {fileID: 2100000, guid: fce7e4b72c8bae744aa0a27fbd325670, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phare
+    second: {fileID: 2100000, guid: 6cd8008eb3cc79c4a87f41d24d7679cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "pilier_\xE9tage"
+    second: {fileID: 2100000, guid: 1066b78356a4ffb4fae00596530a4cbe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pneu
+    second: {fileID: 2100000, guid: 1cd8d3827465e5a40983fd9a344c84b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rouge_phare
+    second: {fileID: 2100000, guid: 0d7318cebe7ed3c43ab92fbd508126f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sol-1
+    second: {fileID: 2100000, guid: b26c4a443ce3dfe4b97e1faf935fc915, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "sol_int\xE9rieur"
+    second: {fileID: 2100000, guid: 0cda1579236b2ff4e82913819289140a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sol_map.001
+    second: {fileID: 2100000, guid: e95b01fb3f2771043bcbb12307ed8042, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: toit
+    second: {fileID: 2100000, guid: 939339f6c4195884f99d1f228cff3163, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: toit2
+    second: {fileID: 2100000, guid: bc3a81c5b643c70448d06279da89e935, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: truc_bidule
+    second: {fileID: 2100000, guid: 5d3b5494f07a62d469dbedf62bf0d4c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: verre
+    second: {fileID: 2100000, guid: 57bf6b8b0bb13b54e92346bfa8b05371, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\xE9cran"
+    second: {fileID: 2100000, guid: bc4bfbcadabbb16419bd833082fd7c32, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\xE9cran.001"
+    second: {fileID: 2100000, guid: a2b1f91f667f85f4da68cf468b3319d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\xE9tage"
+    second: {fileID: 2100000, guid: b211a10bf40bf6e44b62f9317822aa09, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

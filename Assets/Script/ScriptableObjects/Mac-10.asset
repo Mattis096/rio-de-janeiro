@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 634b690d607ab754caa882c9dbd32d92, type: 3}
+  m_Name: Mac-10
+  m_EditorClassIdentifier: 
+  gunName: Mac-10
+  maxAmmoPerMag: 40
+  startingAmmo: 40
+  fireRate: 0.08
+  reloadTime: 2
+  range: 100
+  HeadDMG: 25
+  BodyDMG: 20
+  LegsDMG: 10
+  spread: 0.4
+  isReloading: 0
+  isEquiped: 0
+  inHandPosition: {x: 1.1, y: -1, z: 2}
+  inHandWeaponScale: {x: 0.6, y: 0.6, z: 0.6}
+  inHandWeaponRotation: {x: 0, y: 1, z: 0, w: -0.00000004371139}

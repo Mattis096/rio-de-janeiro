@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7148adf29dcf94a4ba3708dae7778ad7
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 12385, guid: 0000000000000000e000000000000000, type: 0}
+  disableValidation: 0
+AssetOrigin:
+  serializedVersion: 1
+  productId: 261949
+  packageName: Modular To Do Lists - Offline Project Management Tool
+  packageVersion: 1.4.3
+  assetPath: Assets/Plugins/Tiny Giant Studio/Modular To Do List/Scripts/Editor/ToDoListStyleSheet.uss
+  uploadId: 620219

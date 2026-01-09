@@ -1,0 +1,8 @@
+--> Gameplay
+	: Systeme d'inventaire
+	: Deroulement de la partie
+	: Evenement mort
+	: Clipping armes
+	: Kill feed
+		
+	: Chat ?
